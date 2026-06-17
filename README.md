@@ -18,7 +18,7 @@ Design Rail 是一套面向 coding agent 的前端 UI 工作流 skill。
 当前 skill 位于：
 
 ```text
-design-rail-ui/
+skills/design-rail-ui/
 ```
 
 当任务涉及 app UI、可见组件、布局、样式、导航、弹窗、卡片、设置页、列表、表单、颜色、字体、截图参考界面，或任何可能影响产品一致性的前端可见界面时，应使用该 skill。
@@ -38,3 +38,10 @@ design-rail-ui/
 该仓库只维护可复用的 skill 和相关 reference 文档。
 
 本地竞品截图、复制的第三方 skill、探索性资料和临时素材不纳入版本控制。
+
+当前仓库采用标准 skills 布局：
+
+```text
+skills/
+  design-rail-ui/
+```
