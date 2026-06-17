@@ -1,9 +1,9 @@
 ---
-name: rongxinapp-ui
+name: design-rail-ui
 description: Use when a task changes app UI, visible components, layout, styling, navigation, dialogs, cards, settings, lists, forms, color, typography, screenshot-referenced interfaces, or other renderer-facing surfaces in ways that could affect product consistency.
 ---
 
-# RongxinApp UI
+# Design Rail UI
 
 This skill provides a reusable UI governance workflow for app UI work.
 

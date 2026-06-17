@@ -18,7 +18,7 @@ Design Rail 是一套面向 coding agent 的前端 UI 工作流 skill。
 当前 skill 位于：
 
 ```text
-rongxinapp-ui/
+design-rail-ui/
 ```
 
 当任务涉及 app UI、可见组件、布局、样式、导航、弹窗、卡片、设置页、列表、表单、颜色、字体、截图参考界面，或任何可能影响产品一致性的前端可见界面时，应使用该 skill。
